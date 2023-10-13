@@ -1,0 +1,7 @@
+Uma página web possui 3 componentes básicos o HTML, CSS e o JS.
+O HTML e uma linguagem de marcação que compõem a estrutura da página, informando para o navegador um será posicionado os elementos dentro da página por meio de Tags.
+O CSS e uma folha de estilo, que informa para o navegador qual as cores, formas e padrões que os elementos do HTML irão ter, personalizando a página.
+O JS entra no meio com a capacidade de manipular o CSS e o HTML, dando dinamismo para página e abrindo novos horizontes.
+Um exemplo fácil para entender o funcionamento desses componentes juntos e uma desenho animado, no desenho animado primeiro e feito vários desenhos a lápis, 
+depois esses desenhos são pintados e depois emos desenhos são scanenados e colocados em um software para ser animado, nesse exemplo o HTML e o desenho a lápis, 
+o CSS e a pintura feita encima do desenho e o JS e o software que junta tudo.

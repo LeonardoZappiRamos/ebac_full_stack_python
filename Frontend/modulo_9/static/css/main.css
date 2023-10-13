@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: #c0cfc0;
+  font-family: "Poppins", sans-serif;
+}
+
+.center {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  background-color: #ffffff;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+form {
+  margin: 16px 0;
+}
+
+input,
+button {
+  padding:8px;
+}
+
+section ul {
+  max-height: 320px;
+  padding: 0 8px;
+  overflow-y: auto;
+  everflow-x: hidden;
+}
+
+section ul li {
+  border: 1px solid #c0cfc0;
+  width: 100%;
+  list-style: none;
+  padding: 8px;
+  margin: 8px 0;
+}
+
+.del-li {
+  text-decoration: line-through;
+}
