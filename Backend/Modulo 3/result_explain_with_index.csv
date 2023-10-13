@@ -1,0 +1,5 @@
+"QUERY PLAN"
+"Index Scan using idx_test_ebac on test_indexing  (cost=0.42..8.44 rows=1 width=8) (actual time=0.048..0.049 rows=1 loops=1)"
+"  Index Cond: (id = 2)"
+"Planning Time: 1.491 ms"
+"Execution Time: 0.061 ms"
