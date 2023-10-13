@@ -1,0 +1,14 @@
+# Frontend Files
+Frontend/*/node_modules/
+
+# Python Bonus
+Python/env/
+Python/*/*.csv
+Python/*/*.webp
+Python/*/*.zip
+Python/*/*.png
+Python/*/dados/
+
+# Backend Files
+Backend/*/env/
+Backend/*/*.csv
