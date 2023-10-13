@@ -1,3 +1,11 @@
-./Python/*/env/
-./Backend/*/env/
-./Frontend/*/env/
+Python/env/
+Python/*/*.csv
+Python/*/*.webp
+Python/*/*.zip
+Python/*/*.png
+Python/*/dados/
+
+Backend/*/env/
+Backend/*/*.csv
+
+Frontend/env/
